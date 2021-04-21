@@ -1,0 +1,80 @@
+.home {
+  background-image: url("../Assets/patrick-tomasso-QMDap1TAu0g-unsplash.jpg");
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-size: cover;
+}
+
+.home1 {
+  background-image: url("../Assets/patrick-tomasso-QMDap1TAu0g-unsplash.jpg");
+  display: flex;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 12px;
+  background-size: cover;
+}
+
+.dashboard {
+  min-height: 60vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.textWelcome {
+  font-size: 22px;
+}
+
+.textFullName {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  color: red;
+  padding-top: 8px;
+}
+
+.textDesignation {
+  font-size: 24px;
+  /* display: flex; */
+}
+
+.imagBackgrouns {
+  width: 100%;
+  height: 400px;
+  background-image: url("../Assets/leone-venter-VieM9BdZKFo-unsplash.jpg");
+  background-size: cover;
+  flex-direction: column;
+  /* border: 1px solid red; */
+}
+
+.divPersonal {
+  position: absolute;
+  /* background-color: green; */
+  /* min-height: 60vh; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  /* align-items: center; */
+  /* display: flex; */
+  /* justify-content: center; */
+  /* flex-direction: column; */
+}
+
+ion-icon {
+  color: rgb(154, 219, 154);
+}
+
+.img-circular {
+  width: 180px;
+  height: 180px;
+  background-image: url("../Assets/WhatsApp\ Image\ 2021-04-12\ at\ 3.22.28\ PM.jpeg");
+  background-size: cover;
+  display: block;
+  border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+}

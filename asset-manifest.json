@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.a9fbcd5b.chunk.css",
+    "main.js": "/my-app/static/js/main.c5ca43ef.chunk.js",
+    "main.js.map": "/my-app/static/js/main.c5ca43ef.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.962b5b7e.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.962b5b7e.js.map",
+    "static/js/2.3aac2664.chunk.js": "/my-app/static/js/2.3aac2664.chunk.js",
+    "static/js/2.3aac2664.chunk.js.map": "/my-app/static/js/2.3aac2664.chunk.js.map",
+    "static/js/3.b1d47882.chunk.js": "/my-app/static/js/3.b1d47882.chunk.js",
+    "static/js/3.b1d47882.chunk.js.map": "/my-app/static/js/3.b1d47882.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.a9fbcd5b.chunk.css.map": "/my-app/static/css/main.a9fbcd5b.chunk.css.map",
+    "static/js/2.3aac2664.chunk.js.LICENSE.txt": "/my-app/static/js/2.3aac2664.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/my-app/static/media/patrick-tomasso-QMDap1TAu0g-unsplash.6bcb5651.jpg",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.962b5b7e.js",
+    "static/js/2.3aac2664.chunk.js",
+    "static/css/main.a9fbcd5b.chunk.css",
+    "static/js/main.c5ca43ef.chunk.js"
+  ]
+}

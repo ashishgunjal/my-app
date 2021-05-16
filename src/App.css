@@ -31,6 +31,22 @@
   color: #61dafb;
 }
 
+.foo {
+  background-color: red;
+  width: 100%;
+  margin: 0 auto;
+
+  @media only screen and (min-width : 768px) {
+    width: 75%;
+    background-color: green;
+  }
+
+  @media only screen and (min-width : 992px) {
+    width: 50%;
+    background-color: pink;
+  }
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

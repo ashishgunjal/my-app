@@ -18,11 +18,16 @@
 }
 
 .dashboard {
-  min-height: 60vh;
+  min-height: 55vh;
+  background-image: url("../Assets/leone-venter-VieM9BdZKFo-unsplash.jpg");
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* margin-top: 42px; */
 }
 
 .textWelcome {
@@ -32,22 +37,15 @@
 .textFullName {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 30px;
-  color: red;
   padding-top: 8px;
+  font-weight: 900;
+  /* padding-top: 8px; */
 }
 
 .textDesignation {
   font-size: 24px;
+  /* padding-top: 12px; */
   /* display: flex; */
-}
-
-.imagBackgrouns {
-  width: 100%;
-  height: 400px;
-  background-image: url("../Assets/leone-venter-VieM9BdZKFo-unsplash.jpg");
-  background-size: cover;
-  flex-direction: column;
-  /* border: 1px solid red; */
 }
 
 .divPersonal {
@@ -55,10 +53,10 @@
   /* background-color: green; */
   /* min-height: 60vh; */
   display: flex;
-  justify-content: center;
-  align-items: center;
+  /* justify-content: center;
+  align-items: center; */
   flex-direction: column;
-  /* align-items: center; */
+  align-items: center;
   /* display: flex; */
   /* justify-content: center; */
   /* flex-direction: column; */
@@ -66,6 +64,7 @@
 
 ion-icon {
   color: rgb(154, 219, 154);
+  font-size: 22px;
 }
 
 .img-circular {

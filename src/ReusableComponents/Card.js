@@ -6,24 +6,29 @@ const Card = React.memo((props) => {
       class="card"
       style={{
         width: "50%",
-        paddingTop: 12,
-        paddingBottom: 12,
+        paddingTop: 6,
+        paddingBottom: 6,
         justifyContent: "center",
         paddingLeft: 12,
         paddingRight: 12,
-        
       }}
     >
       {/* <img src="..." class="card-img-top" alt="..." /> */}
-      <div class="">
-        <h5 class="card-title">Card title</h5>
-        <p class="card-text">
-          Some quick example text to build on the card title and make up the
-          bulk of the card's content.
-        </p>
-        <a href="#" class="btn btn-primary">
-          Go somewhere
-        </a>
+      <div style={{ paddingTop: 12, paddingBottom: 12 }}>
+        <h5 class="card-title">{props.projectName}</h5>
+        <p class="card-text">{props.info}</p>
+        <div
+          onClick={() => {
+            alert("WIP");
+          }}
+          style={{
+            cursor: "pointer",
+            position: "absolute",
+            bottom: 6,
+          }}
+        >
+          <text style={{ color: "skyblue" }}>More</text>
+        </div>
       </div>
     </div>
   );

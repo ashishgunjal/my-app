@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.61e0b61d.chunk.css",
-    "main.js": "/my-app/static/js/main.166b679e.chunk.js",
-    "main.js.map": "/my-app/static/js/main.166b679e.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.7039f802.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.7039f802.js.map",
-    "static/js/2.d35d5eab.chunk.js": "/my-app/static/js/2.d35d5eab.chunk.js",
-    "static/js/2.d35d5eab.chunk.js.map": "/my-app/static/js/2.d35d5eab.chunk.js.map",
-    "static/js/3.8ce12b58.chunk.js": "/my-app/static/js/3.8ce12b58.chunk.js",
-    "static/js/3.8ce12b58.chunk.js.map": "/my-app/static/js/3.8ce12b58.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "static/css/main.61e0b61d.chunk.css.map": "/my-app/static/css/main.61e0b61d.chunk.css.map",
-    "static/js/2.d35d5eab.chunk.js.LICENSE.txt": "/my-app/static/js/2.d35d5eab.chunk.js.LICENSE.txt",
-    "static/media/Home.css": "/my-app/static/media/patrick-tomasso-QMDap1TAu0g-unsplash.6bcb5651.jpg",
-    "static/media/Feedback.css": "/my-app/static/media/feedbackImg.8b1685a2.png",
-    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/static/css/main.389fd338.chunk.css",
+    "main.js": "/static/js/main.166b679e.chunk.js",
+    "main.js.map": "/static/js/main.166b679e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a74b130b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a74b130b.js.map",
+    "static/js/2.d35d5eab.chunk.js": "/static/js/2.d35d5eab.chunk.js",
+    "static/js/2.d35d5eab.chunk.js.map": "/static/js/2.d35d5eab.chunk.js.map",
+    "static/js/3.8ce12b58.chunk.js": "/static/js/3.8ce12b58.chunk.js",
+    "static/js/3.8ce12b58.chunk.js.map": "/static/js/3.8ce12b58.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.389fd338.chunk.css.map": "/static/css/main.389fd338.chunk.css.map",
+    "static/js/2.d35d5eab.chunk.js.LICENSE.txt": "/static/js/2.d35d5eab.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/patrick-tomasso-QMDap1TAu0g-unsplash.6bcb5651.jpg",
+    "static/media/Feedback.css": "/static/media/feedbackImg.8b1685a2.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7039f802.js",
+    "static/js/runtime-main.a74b130b.js",
     "static/js/2.d35d5eab.chunk.js",
-    "static/css/main.61e0b61d.chunk.css",
+    "static/css/main.389fd338.chunk.css",
     "static/js/main.166b679e.chunk.js"
   ]
 }
